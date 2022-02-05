@@ -1,0 +1,2 @@
+A simple program to perform matrix arithmetic (addition, subtraction, and multiplication).
+It is a generic program, meaning that it works with both floating point and integer numbers.
